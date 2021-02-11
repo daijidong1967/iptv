@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="GE;EUR;ASIA;AMER" tvg-language="Georgian" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-url="" group-title="",1TV
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="GE;EUR;ASIA;AMER" tvg-language="Georgian" tvg-logo="https://i.imgur.com/mX080in.png" tvg-url="" group-title="",1TV
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="GE;EUR;ASIA;AMER" tvg-language="Georgian" tvg-logo="https://i.imgur.com/VBmQCH7.png" tvg-url="" group-title="",2TV
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BB" tvg-language="" tvg-logo="https://i.imgur.com/GjJu9Rm.jpg" tvg-url="" group-title="",CBC TV 8
+https://1740288887.rsc.cdn77.org/1740288887/tracks-v2a1/rewind-3600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BB" tvg-language="English" tvg-logo="https://i.imgur.com/wbuv3Sl.jpg" tvg-url="" group-title="",Trident 10 TV (480p)
+http://161.0.157.9/PLTV/88888888/224/3221226832/index.m3u8
